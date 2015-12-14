@@ -1,0 +1,2 @@
+defmodule StripePlayground do
+end
